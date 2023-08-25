@@ -1,0 +1,29 @@
+body{
+    background-color:palevioletred;
+}
+.b{
+    color:black;
+    animation-name: example;
+    animation-duration: 2s;
+  }
+  
+  @keyframes example {
+    from {color: darkblue;}
+    to {color:darkred;}
+  }
+  .a{
+    display: inline;
+  }
+  .d{
+    display: inline;
+  }
+  .c{
+    color:black;
+    animation-name: example;
+    animation-duration: 2s;
+  }
+  
+  @keyframes example {
+    from {color: darkblue;}
+    to {color:darkred;}
+  }

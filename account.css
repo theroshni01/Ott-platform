@@ -1,0 +1,27 @@
+body{
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body{
+    text-align: center;
+    margin-top: 300px;
+    
+}
+body input{
+    color: rgba(135, 31, 102, 0.694);
+}
+body label{
+    font-style: oblique;
+    color:orangered;
+    font-family: fantasy;
+}
+body button{
+    color: blue;
+    width: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: lightpink;
+}
+body a{
+    text-decoration: none;
+}
